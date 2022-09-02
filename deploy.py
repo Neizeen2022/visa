@@ -2,3 +2,5 @@
 #echo "Hello World" = Shell Script
 #python('Hello World')
 print('Hello World')
+
+#Hello world in python language
